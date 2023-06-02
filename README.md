@@ -1,1 +1,1 @@
-# odin-recipes
+# This is a small project showcasing the skills I have gained until now with The Odin Project.
