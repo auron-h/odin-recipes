@@ -1,0 +1,10 @@
+*{
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+.heading{
+    text-align: center;
+    font-weight: 600;
+}
+.home-list{
+    background-color: rgb(254, 212, 197);
+}
